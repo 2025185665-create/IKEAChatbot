@@ -1,0 +1,884 @@
+{
+  "products": [
+    {
+      "id": "HEMNES-bed",
+      "name": "HEMNES Bed frame",
+      "flow": "material",
+      "option": "wood",
+      "category": "Bedroom furniture",
+      "price_myr": 899,
+      "features_en": [
+        "Natural wooden design",
+        "Durable solid pine construction",
+        "Suitable for natural-themed homes"
+      ],
+      "features_ms": [
+        "Reka bentuk kayu semula jadi",
+        "Binaan pain tegar yang tahan lama",
+        "Sesuai untuk rumah bertema semula jadi"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/hemnes-bed-frame-white-stain-luroey__0744248_pe740832_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=HEMNES",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+HEMNES+bed+frame+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/hemnes-bed-frame__AA-2334932-2-100.pdf"
+    },
+    {
+      "id": "HEMNES-bookcase",
+      "name": "HEMNES Bookcase",
+      "flow": "material",
+      "option": "wood",
+      "category": "Living room furniture",
+      "price_myr": 499,
+      "features_en": [
+        "Solid wood construction",
+        "Adjustable shelves",
+        "Classic timeless style"
+      ],
+      "features_ms": [
+        "Binaan kayu tegar",
+        "Rak boleh laras",
+        "Gaya klasik abadi"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/hemnes-bookcase-white-stain__0644631_pe702215_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=HEMNES",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+HEMNES+bookcase+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/hemnes-bookcase__AA-635934-2.pdf"
+    },
+    {
+      "id": "HEMNES-drawer",
+      "name": "HEMNES Chest of 3 drawers",
+      "flow": "material",
+      "option": "wood",
+      "category": "Bedroom furniture",
+      "price_myr": 599,
+      "features_en": [
+        "Real wood veneer",
+        "Smooth-running drawers",
+        "Ages gracefully with use"
+      ],
+      "features_ms": [
+        "Venir kayu sebenar",
+        "Laci licin digunakan",
+        "Bertambah cantik dengan masa"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/hemnes-chest-of-3-drawers-white-stain__1009612_pe829343_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=HEMNES",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+HEMNES+chest+of+drawers+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/hemnes-chest-of-3-drawers__AA-2227476-2.pdf"
+    },
+    {
+      "id": "VITTSJO-table",
+      "name": "VITTSJÖ Coffee table",
+      "flow": "material",
+      "option": "glass",
+      "category": "Living room furniture",
+      "price_myr": 199,
+      "features_en": [
+        "Modern glass and steel design",
+        "Suitable for living rooms",
+        "Stylish minimalist appearance"
+      ],
+      "features_ms": [
+        "Reka bentuk kaca dan keluli moden",
+        "Sesuai untuk ruang tamu",
+        "Penampilan minimalis bergaya"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/vittsjoe-coffee-table-black-brown-glass__0837512_pe600685_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=VITTSJO",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+VITTSJO+coffee+table+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/vittsjoe-coffee-table__AA-2098553-2.pdf"
+    },
+    {
+      "id": "VITTSJO-shelf",
+      "name": "VITTSJÖ Shelving unit",
+      "flow": "material",
+      "option": "glass",
+      "category": "Living room furniture",
+      "price_myr": 329,
+      "features_en": [
+        "Tempered glass shelves",
+        "Open airy display look",
+        "Easy to wipe clean"
+      ],
+      "features_ms": [
+        "Rak kaca dikeraskan",
+        "Tampilan terbuka dan lapang",
+        "Mudah dilap bersih"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/vittsjoe-shelving-unit-black-brown-glass__0836782_pe599623_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=VITTSJO",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+VITTSJO+shelving+unit+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/vittsjoe-shelving-unit__AA-2098550-2.pdf"
+    },
+    {
+      "id": "STOCKHOLM-table",
+      "name": "STOCKHOLM Coffee table",
+      "flow": "material",
+      "option": "glass",
+      "category": "Living room furniture",
+      "price_myr": 999,
+      "features_en": [
+        "Tempered glass top",
+        "Walnut veneer frame",
+        "Premium showpiece design"
+      ],
+      "features_ms": [
+        "Atas kaca dikeraskan",
+        "Bingkai venir walnut",
+        "Reka bentuk premium"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/stockholm-coffee-table-walnut-veneer__0837412_pe600639_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=STOCKHOLM",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+STOCKHOLM+coffee+table+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/stockholm-coffee-table__AA-2079716-2.pdf"
+    },
+    {
+      "id": "KIVIK-sofa",
+      "name": "KIVIK Sofa",
+      "flow": "material",
+      "option": "fabric",
+      "category": "Living room furniture",
+      "price_myr": 2799,
+      "features_en": [
+        "Soft fabric cover",
+        "Removable and washable cover",
+        "Deep comfortable seating"
+      ],
+      "features_ms": [
+        "Kelongsong fabrik lembut",
+        "Kelongsong boleh tanggal dan dibasuh",
+        "Tempat duduk dalam dan selesa"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/kivik-3-seat-sofa-hillared-anthracite__0497057_pe628419_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=KIVIK",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+KIVIK+sofa+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/kivik-3-seat-sofa__AA-2247659-2.pdf"
+    },
+    {
+      "id": "EKTORP-armchair",
+      "name": "EKTORP Armchair",
+      "flow": "material",
+      "option": "fabric",
+      "category": "Living room furniture",
+      "price_myr": 1199,
+      "features_en": [
+        "Classic fabric upholstery",
+        "Machine washable cover",
+        "Roomy and supportive"
+      ],
+      "features_ms": [
+        "Pelapik fabrik klasik",
+        "Kelongsong boleh dibasuh mesin",
+        "Luas dan menyokong"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/ektorp-armchair-lofallet-beige__0837731_pe600814_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=EKTORP",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+EKTORP+armchair+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/ektorp-armchair__AA-2200971-2.pdf"
+    },
+    {
+      "id": "STRANDMON-wingchair",
+      "name": "STRANDMON Wing chair",
+      "flow": "material",
+      "option": "fabric",
+      "category": "Living room furniture",
+      "price_myr": 1399,
+      "features_en": [
+        "Plush fabric upholstery",
+        "High wingback for support",
+        "Statement accent piece"
+      ],
+      "features_ms": [
+        "Pelapik fabrik mewah",
+        "Sandaran tinggi untuk sokongan",
+        "Perabot fokus ruang"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/strandmon-wing-chair-skiftebo-yellow__0735723_pe740112_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=STRANDMON",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+STRANDMON+wing+chair+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/strandmon-wing-chair__AA-2128201-2.pdf"
+    },
+    {
+      "id": "POANG-rattan",
+      "name": "POÄNG Armchair",
+      "flow": "material",
+      "option": "other",
+      "category": "Living room furniture",
+      "price_myr": 449,
+      "features_en": [
+        "Bent birch wood frame",
+        "Layer-glued for flexibility",
+        "Cushion in cotton blend"
+      ],
+      "features_ms": [
+        "Bingkai kayu birch dilentur",
+        "Lapisan rekat untuk fleksibiliti",
+        "Kusyen campuran kapas"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/poaeng-armchair-birch-veneer-knisa-light-beige__0837942_pe600886_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=POANG",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+POANG+armchair+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/poaeng-armchair__AA-2099087-2.pdf"
+    },
+    {
+      "id": "ADDE-chair",
+      "name": "ADDE Chair",
+      "flow": "material",
+      "option": "other",
+      "category": "Dining furniture",
+      "price_myr": 49,
+      "features_en": [
+        "Solid polypropylene plastic",
+        "Lightweight and stackable",
+        "Easy to clean surface"
+      ],
+      "features_ms": [
+        "Plastik polipropilena tegar",
+        "Ringan dan boleh ditindan",
+        "Permukaan mudah dibersihkan"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/adde-chair-white__0735892_pe740199_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=ADDE",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+ADDE+chair",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/adde-chair__AA-1142878-2.pdf"
+    },
+    {
+      "id": "JASSA-basket",
+      "name": "JÄSSA Storage basket",
+      "flow": "material",
+      "option": "other",
+      "category": "Storage furniture",
+      "price_myr": 89,
+      "features_en": [
+        "Handwoven rattan",
+        "Natural fibre texture",
+        "Great for soft storage"
+      ],
+      "features_ms": [
+        "Rotan dianyam tangan",
+        "Tekstur serat semula jadi",
+        "Sesuai untuk storan lembut"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/jaessa-basket-rattan__0840382_pe601679_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=JASSA",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+JASSA+basket",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/jaessa-basket__AA-2026498-2.pdf"
+    },
+    {
+      "id": "PS2017-stool",
+      "name": "IKEA PS 2017 Stool",
+      "flow": "material",
+      "option": "other",
+      "category": "Living room furniture",
+      "price_myr": 129,
+      "features_en": [
+        "Solid bamboo construction",
+        "Sustainable fast-growing material",
+        "Foldable for storage"
+      ],
+      "features_ms": [
+        "Binaan buluh tegar",
+        "Bahan lestari yang cepat tumbuh",
+        "Boleh dilipat untuk disimpan"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/ikea-ps-2017-stool-foldable-bamboo__0837642_pe600761_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=IKEA%20PS%202017",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+PS+2017+stool",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/ikea-ps-2017-stool-foldable__AA-2107473-2.pdf"
+    },
+    {
+      "id": "ODGER-chair",
+      "name": "ODGER Chair",
+      "flow": "material",
+      "option": "other",
+      "category": "Dining furniture",
+      "price_myr": 199,
+      "features_en": [
+        "Recycled wood and plastic composite",
+        "Comfortable curved seat",
+        "Suitable for indoor or covered outdoor"
+      ],
+      "features_ms": [
+        "Komposit kayu kitar semula dan plastik",
+        "Tempat duduk melengkung yang selesa",
+        "Sesuai untuk dalam atau luar berbumbung"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/odger-chair-black__0739312_pe738612_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=ODGER",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+ODGER+chair",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/odger-chair__AA-2122871-2.pdf"
+    },
+    {
+      "id": "MICKE-desk",
+      "name": "MICKE Desk",
+      "flow": "lifestyle",
+      "option": "student",
+      "category": "Study furniture",
+      "price_myr": 299,
+      "features_en": [
+        "Affordable price point",
+        "Compact size for small rooms",
+        "Built-in cable management"
+      ],
+      "features_ms": [
+        "Harga berpatutan",
+        "Saiz padat untuk bilik kecil",
+        "Pengurusan kabel terbina dalam"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/micke-desk-white__0735423_pe740028_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=MICKE",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+MICKE+desk+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/micke-desk__AA-2008827-2.pdf"
+    },
+    {
+      "id": "LERBERG-shelf",
+      "name": "LERBERG Shelving unit",
+      "flow": "lifestyle",
+      "option": "student",
+      "category": "Storage furniture",
+      "price_myr": 89,
+      "features_en": [
+        "Budget-friendly storage",
+        "Lightweight and easy to move",
+        "Fits dorm-sized rooms"
+      ],
+      "features_ms": [
+        "Storan mesra bajet",
+        "Ringan dan mudah dialih",
+        "Sesuai untuk bilik asrama"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/lerberg-shelving-unit-white__0813789_pe774008_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=LERBERG",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+LERBERG+shelving+unit+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/lerberg-shelving-unit__AA-1932987-2.pdf"
+    },
+    {
+      "id": "SUNDVIK-bed",
+      "name": "SUNDVIK Extendable bed",
+      "flow": "lifestyle",
+      "option": "student",
+      "category": "Bedroom furniture",
+      "price_myr": 599,
+      "features_en": [
+        "Extends as student grows",
+        "Affordable solid wood",
+        "Compact single-bed footprint"
+      ],
+      "features_ms": [
+        "Boleh dipanjangkan mengikut pertumbuhan",
+        "Kayu tegar berpatutan",
+        "Saiz katil tunggal padat"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/sundvik-extendable-bed-white__0644892_pe702342_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=SUNDVIK",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+SUNDVIK+bed+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/sundvik-extendable-bed__AA-635951-2.pdf"
+    },
+    {
+      "id": "MARKUS-chair",
+      "name": "MARKUS Office chair",
+      "flow": "lifestyle",
+      "option": "wfh",
+      "category": "Office furniture",
+      "price_myr": 799,
+      "features_en": [
+        "Ergonomic high back support",
+        "Built for long working hours",
+        "Adjustable height and tilt"
+      ],
+      "features_ms": [
+        "Sokongan belakang tinggi ergonomik",
+        "Direka untuk waktu kerja panjang",
+        "Ketinggian dan condongan boleh laras"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/markus-office-chair-vissle-dark-grey__0731724_pe737616_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=MARKUS",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+MARKUS+office+chair+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/markus-office-chair__AA-2103451-2.pdf"
+    },
+    {
+      "id": "BEKANT-desk",
+      "name": "BEKANT Desk",
+      "flow": "lifestyle",
+      "option": "wfh",
+      "category": "Office furniture",
+      "price_myr": 899,
+      "features_en": [
+        "Professional workspace setup",
+        "Optional sit-stand frame",
+        "Cable management included"
+      ],
+      "features_ms": [
+        "Persediaan ruang kerja profesional",
+        "Bingkai duduk-berdiri pilihan",
+        "Pengurusan kabel disertakan"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/bekant-desk-white__0735512_pe740071_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=BEKANT",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+BEKANT+desk+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/bekant-desk__AA-2126051-2.pdf"
+    },
+    {
+      "id": "BRIMNES-cabinet",
+      "name": "BRIMNES Cabinet with doors",
+      "flow": "lifestyle",
+      "option": "wfh",
+      "category": "Storage furniture",
+      "price_myr": 399,
+      "features_en": [
+        "Hides cables and clutter",
+        "Closed storage for documents",
+        "Doubles as TV bench"
+      ],
+      "features_ms": [
+        "Menyembunyikan kabel dan kekacauan",
+        "Storan tertutup untuk dokumen",
+        "Boleh berfungsi sebagai bangku TV"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/brimnes-cabinet-with-doors-white__0735612_pe740097_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=BRIMNES",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+BRIMNES+cabinet+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/brimnes-cabinet-with-doors__AA-1976473-2.pdf"
+    },
+    {
+      "id": "MAMMUT-table",
+      "name": "MAMMUT Children's table",
+      "flow": "lifestyle",
+      "option": "family",
+      "category": "Children's furniture",
+      "price_myr": 99,
+      "features_en": [
+        "Rounded child-safe edges",
+        "Bright durable plastic",
+        "Easy to wipe clean"
+      ],
+      "features_ms": [
+        "Tepi bulat selamat kanak-kanak",
+        "Plastik tahan lasak berwarna ceria",
+        "Mudah dilap bersih"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/mammut-childrens-table-indoor-outdoor-blue__0735812_pe740187_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=MAMMUT",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+MAMMUT+table",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/mammut-childrens-table__AA-1108652-2.pdf"
+    },
+    {
+      "id": "SUNDVIK-cot",
+      "name": "SUNDVIK Cot",
+      "flow": "lifestyle",
+      "option": "family",
+      "category": "Children's furniture",
+      "price_myr": 449,
+      "features_en": [
+        "Adjustable mattress base height",
+        "Removable side rail",
+        "Built to last through toddler years"
+      ],
+      "features_ms": [
+        "Ketinggian dasar tilam boleh laras",
+        "Pagar sisi boleh tanggal",
+        "Tahan lama sehingga zaman kanak-kanak"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/sundvik-cot-white__0644972_pe702382_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=SUNDVIK",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+SUNDVIK+cot+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/sundvik-cot__AA-635953-2.pdf"
+    },
+    {
+      "id": "TROFAST-storage",
+      "name": "TROFAST Storage combination",
+      "flow": "lifestyle",
+      "option": "family",
+      "category": "Children's furniture",
+      "price_myr": 259,
+      "features_en": [
+        "Colour-coded toy organisation",
+        "Sturdy for daily child use",
+        "Encourages tidy habits"
+      ],
+      "features_ms": [
+        "Penyusunan mainan ikut warna",
+        "Tegap untuk kegunaan harian kanak-kanak",
+        "Menggalakkan tabiat kemas"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/trofast-storage-combination-with-boxes-white-grey-turquoise__0735912_pe740206_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=TROFAST",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+TROFAST+storage+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/trofast-storage-combination__AA-2030991-2.pdf"
+    },
+    {
+      "id": "KALLAX-shelf",
+      "name": "KALLAX Shelving unit",
+      "flow": "lifestyle",
+      "option": "minimalist",
+      "category": "Storage furniture",
+      "price_myr": 299,
+      "features_en": [
+        "Simple grid design",
+        "Space-saving footprint",
+        "Modern clean appearance"
+      ],
+      "features_ms": [
+        "Reka bentuk grid ringkas",
+        "Jejak ruang yang menjimatkan",
+        "Penampilan moden bersih"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/kallax-shelving-unit-white__0644451_pe702140_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=KALLAX",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+KALLAX+shelving+unit+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/kallax-shelving-unit__AA-2003001-2.pdf"
+    },
+    {
+      "id": "LACK-table",
+      "name": "LACK Coffee table",
+      "flow": "lifestyle",
+      "option": "minimalist",
+      "category": "Living room furniture",
+      "price_myr": 69,
+      "features_en": [
+        "Lightweight honeycomb structure",
+        "Simple flat-pack design",
+        "Fits any minimal layout"
+      ],
+      "features_ms": [
+        "Struktur sarang lebah yang ringan",
+        "Reka bentuk pek rata ringkas",
+        "Sesuai dengan tata letak minimal"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/lack-coffee-table-black-brown__0702282_pe723558_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=LACK",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+LACK+coffee+table+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/lack-coffee-table__AA-2024847-2.pdf"
+    },
+    {
+      "id": "ENHET-kitchen",
+      "name": "ENHET Storage combination",
+      "flow": "lifestyle",
+      "option": "minimalist",
+      "category": "Kitchen furniture",
+      "price_myr": 549,
+      "features_en": [
+        "Stripped-back industrial look",
+        "Modular configuration",
+        "No unnecessary ornamentation"
+      ],
+      "features_ms": [
+        "Penampilan perindustrian ringkas",
+        "Konfigurasi modular",
+        "Tiada hiasan berlebihan"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/enhet-storage-combination-white__0784512_pe773419_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=ENHET",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+ENHET+kitchen+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/enhet-storage-combination__AA-2200401-2.pdf"
+    },
+    {
+      "id": "EKET-cabinet",
+      "name": "EKET Cabinet combination",
+      "flow": "lifestyle",
+      "option": "minimalist",
+      "category": "Storage furniture",
+      "price_myr": 199,
+      "features_en": [
+        "Boxy geometric modules",
+        "Mix-and-match colour blocks",
+        "Wall-mountable for floor-free look"
+      ],
+      "features_ms": [
+        "Modul geometri berbentuk kotak",
+        "Blok warna boleh dipadankan",
+        "Boleh dipasang dinding untuk rupa bebas lantai"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/eket-cabinet-combination-with-legs-white__0784612_pe773460_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=EKET",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+EKET+cabinet+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/eket-cabinet-combination__AA-2200389-2.pdf"
+    },
+    {
+      "id": "LINNMON-desk",
+      "name": "LINNMON / ADILS Desk",
+      "flow": "durability",
+      "option": "scratch_resistant",
+      "category": "Study furniture",
+      "price_myr": 119,
+      "features_en": [
+        "Scratch-resistant melamine surface",
+        "Suitable for daily use",
+        "Easy maintenance and cleaning"
+      ],
+      "features_ms": [
+        "Permukaan melamin tahan calar",
+        "Sesuai untuk kegunaan harian",
+        "Mudah diselenggara dan dibersihkan"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/linnmon-adils-table-white__0699291_pe723070_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=LINNMON",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+LINNMON+ADILS+desk+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/linnmon-table-top__AA-635891-2.pdf"
+    },
+    {
+      "id": "KALLAX-scratch",
+      "name": "KALLAX Shelf (laminate finish)",
+      "flow": "durability",
+      "option": "scratch_resistant",
+      "category": "Storage furniture",
+      "price_myr": 349,
+      "features_en": [
+        "High-pressure laminate surface",
+        "Resists everyday scuffs",
+        "Holds up to repeated use"
+      ],
+      "features_ms": [
+        "Permukaan laminat tekanan tinggi",
+        "Tahan calar harian",
+        "Tahan kepada penggunaan berulang"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/kallax-shelving-unit-black-brown__0644461_pe702145_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=KALLAX",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+KALLAX+laminate+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/kallax-shelving-unit__AA-2003001-2.pdf"
+    },
+    {
+      "id": "APPLARO-set",
+      "name": "ÄPPLARÖ Outdoor table and chairs set",
+      "flow": "durability",
+      "option": "outdoor",
+      "category": "Outdoor furniture",
+      "price_myr": 1499,
+      "features_en": [
+        "Weather-resistant acacia wood",
+        "Built for outdoor exposure",
+        "Suitable for patios and balconies"
+      ],
+      "features_ms": [
+        "Kayu akasia tahan cuaca",
+        "Direka untuk pendedahan luar",
+        "Sesuai untuk teres dan balkoni"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/applaroe-table-6-chairs-outdoor-brown-stained__0837802_pe600855_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=APPLARO",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+APPLARO+outdoor+set+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/applaroe-table-outdoor__AA-2107663-2.pdf"
+    },
+    {
+      "id": "VARDO-bench",
+      "name": "VÄRDÖ Outdoor bench",
+      "flow": "durability",
+      "option": "outdoor",
+      "category": "Outdoor furniture",
+      "price_myr": 599,
+      "features_en": [
+        "Treated eucalyptus wood",
+        "Holds up against rain and sun",
+        "Low maintenance finish"
+      ],
+      "features_ms": [
+        "Kayu eucalyptus dirawat",
+        "Tahan hujan dan matahari",
+        "Kemasan penyelenggaraan rendah"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/vaerdoe-bench-outdoor-grey-brown-stained__0837902_pe600877_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=VARDO",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+VARDO+outdoor+bench+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/vaerdoe-bench-outdoor__AA-2107658-2.pdf"
+    },
+    {
+      "id": "HINDO-rack",
+      "name": "HINDÖ Shelving unit, in/outdoor",
+      "flow": "durability",
+      "option": "rust_proof",
+      "category": "Storage furniture",
+      "price_myr": 249,
+      "features_en": [
+        "Galvanised steel frame",
+        "Rust-resistant coating",
+        "Suitable for balconies and garages"
+      ],
+      "features_ms": [
+        "Bingkai keluli digalvani",
+        "Salutan tahan karat",
+        "Sesuai untuk balkoni dan garaj"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/hindoe-shelving-unit-in-outdoor-grey__0837952_pe600891_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=HINDO",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+HINDO+shelving+unit+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/hindoe-shelving-unit__AA-2128433-2.pdf"
+    },
+    {
+      "id": "GRILLSKAR-cabinet",
+      "name": "GRILLSKÄR Outdoor kitchen cabinet",
+      "flow": "durability",
+      "option": "rust_proof",
+      "category": "Outdoor furniture",
+      "price_myr": 1899,
+      "features_en": [
+        "Stainless steel construction",
+        "Built to resist rust and corrosion",
+        "Designed for outdoor kitchens"
+      ],
+      "features_ms": [
+        "Binaan keluli tahan karat",
+        "Direka untuk menahan karat dan kakisan",
+        "Direka untuk dapur luar"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/grillskaer-kitchen-stainless-steel-outdoor__0837992_pe600902_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=GRILLSKAR",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+GRILLSKAR+outdoor+kitchen+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/grillskaer-kitchen__AA-2200455-2.pdf"
+    },
+    {
+      "id": "BROR-shelf",
+      "name": "BROR Shelving unit",
+      "flow": "durability",
+      "option": "heavy_weight",
+      "category": "Storage furniture",
+      "price_myr": 299,
+      "features_en": [
+        "Heavy-duty steel frame",
+        "High weight capacity per shelf",
+        "Suitable for storage and workshops"
+      ],
+      "features_ms": [
+        "Bingkai keluli tahan lasak",
+        "Kapasiti berat tinggi setiap rak",
+        "Sesuai untuk storan dan bengkel"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/bror-shelving-unit-white__0837482_pe600627_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=BROR",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+BROR+shelving+unit+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/bror-shelving-unit__AA-2118872-2.pdf"
+    },
+    {
+      "id": "BROR-workbench",
+      "name": "BROR Workbench",
+      "flow": "durability",
+      "option": "heavy_weight",
+      "category": "Workshop furniture",
+      "price_myr": 449,
+      "features_en": [
+        "Solid steel and pine top",
+        "Holds heavy tools and equipment",
+        "Built for repeated heavy use"
+      ],
+      "features_ms": [
+        "Atas keluli dan pain tegar",
+        "Menampung alat dan kelengkapan berat",
+        "Direka untuk kegunaan berat berulang"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/bror-workbench-white-pine__0837522_pe600650_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=BROR",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+BROR+workbench+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/bror-workbench__AA-2118876-2.pdf"
+    },
+    {
+      "id": "HEMNES-daybed",
+      "name": "HEMNES Daybed frame",
+      "flow": "durability",
+      "option": "heavy_weight",
+      "category": "Bedroom furniture",
+      "price_myr": 1399,
+      "features_en": [
+        "Reinforced solid wood slats",
+        "Supports high mattress load",
+        "Doubles as sofa and guest bed"
+      ],
+      "features_ms": [
+        "Lat kayu tegar diperkukuh",
+        "Menampung beban tilam tinggi",
+        "Berfungsi sebagai sofa dan katil tetamu"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/hemnes-daybed-frame-with-3-drawers-white__0744298_pe740855_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=HEMNES",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+HEMNES+daybed+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/hemnes-daybed-frame__AA-2334935-2.pdf"
+    },
+    {
+      "id": "FEJKA-plant",
+      "name": "FEJKA Artificial potted plant",
+      "flow": "durability",
+      "option": "scratch_resistant",
+      "category": "Decor",
+      "price_myr": 39,
+      "features_en": [
+        "UV-resistant artificial leaves",
+        "Maintenance-free greenery",
+        "Suitable for indoor or covered outdoor"
+      ],
+      "features_ms": [
+        "Daun tiruan tahan UV",
+        "Hiasan hijau tanpa penyelenggaraan",
+        "Sesuai untuk dalam atau luar berbumbung"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/fejka-artificial-potted-plant-in-outdoor-succulent__0837672_pe600772_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=FEJKA",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+FEJKA+plant",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/fejka-artificial-potted-plant__AA-2107466-2.pdf"
+    },
+    {
+      "id": "RATAN-basket",
+      "name": "RÅTÅN Outdoor side table",
+      "flow": "durability",
+      "option": "outdoor",
+      "category": "Outdoor furniture",
+      "price_myr": 399,
+      "features_en": [
+        "All-weather plastic rattan",
+        "Will not fade or crack outdoors",
+        "Lightweight to reposition"
+      ],
+      "features_ms": [
+        "Rotan plastik tahan segala cuaca",
+        "Tidak pudar atau retak di luar",
+        "Ringan untuk diatur semula"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/raataan-table-outdoor-grey__0838012_pe600910_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=RATAN",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+RATAN+outdoor+table+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/raataan-table-outdoor__AA-2128471-2.pdf"
+    },
+    {
+      "id": "BROR-cabinet",
+      "name": "BROR Cabinet with doors",
+      "flow": "durability",
+      "option": "heavy_weight",
+      "category": "Storage furniture",
+      "price_myr": 379,
+      "features_en": [
+        "Reinforced steel shelving",
+        "Designed for heavy tools and stock",
+        "Lockable doors for secure storage"
+      ],
+      "features_ms": [
+        "Rak keluli diperkukuh",
+        "Direka untuk alat dan stok berat",
+        "Pintu boleh dikunci untuk storan selamat"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/bror-cabinet-with-doors-white__0837542_pe600660_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=BROR",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+BROR+cabinet+assembly",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/bror-cabinet-with-doors__AA-2118880-2.pdf"
+    },
+    {
+      "id": "GRUNDTAL-rail",
+      "name": "GRUNDTAL Rail",
+      "flow": "durability",
+      "option": "rust_proof",
+      "category": "Kitchen furniture",
+      "price_myr": 39,
+      "features_en": [
+        "Stainless steel build",
+        "Resists kitchen moisture and rust",
+        "Holds hanging utensils securely"
+      ],
+      "features_ms": [
+        "Binaan keluli tahan karat",
+        "Tahan lembapan dan karat dapur",
+        "Menampung alat dapur tergantung dengan kukuh"
+      ],
+      "image_url": "https://www.ikea.com/my/en/images/products/grundtal-rail-stainless-steel__0742312_pe739102_s5.jpg",
+      "product_url": "https://www.ikea.com/my/en/search/?q=GRUNDTAL",
+      "youtube_tutorial": "https://www.youtube.com/results?search_query=IKEA+GRUNDTAL+rail+installation",
+      "pdf_guide": "https://www.ikea.com/my/en/manuals/grundtal-rail__AA-635802-2.pdf"
+    }
+  ]
+}
